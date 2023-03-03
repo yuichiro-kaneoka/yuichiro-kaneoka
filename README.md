@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuichiro Knaoka</h1>
+<h1 align="center">Hi 👋, I'm Yuichiro Kaneoka</h1>
 <h3 align="center">A Japanese Machine Learning Engineer.</h3>
 
 
