@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yuichiro Kaneoka</h1>
-<h3 align="center">A Japanese Machine Learning Engineer.</h3>
+<h1 align="center">Yuichiro Kaneoka</h1>
+<h3 align="center">Japanese Machine Learning Engineer.</h3>
 
 
 - 🔭 I’m currently working on **Object Detection**
